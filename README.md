@@ -40,10 +40,10 @@ This chat assistant is designed to help users retrieve employee and department-r
 
 ## Usage
 Once the assistant is running, you can ask questions like:
-- "Show me all employees in the Sales department."
-- "Who is the manager of the HR department?"
-- "List all employees hired after 2023-01-01."
-- "What is the total salary expense for the IT department?"
+- Show me all employees in the Sales department.
+- Who is the manager of the HR department?
+- List all employees hired after 2023-01-01.
+- What is the total salary expense for the IT department?
 
 ### Example Interaction
 
